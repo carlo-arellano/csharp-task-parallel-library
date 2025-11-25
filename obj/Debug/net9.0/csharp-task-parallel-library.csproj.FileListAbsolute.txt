@@ -1,0 +1,14 @@
+D:\workspace\csharp-task-parallel-library\csharp-task-parallel-library\bin\Debug\net9.0\csharp-task-parallel-library.exe
+D:\workspace\csharp-task-parallel-library\csharp-task-parallel-library\bin\Debug\net9.0\csharp-task-parallel-library.deps.json
+D:\workspace\csharp-task-parallel-library\csharp-task-parallel-library\bin\Debug\net9.0\csharp-task-parallel-library.runtimeconfig.json
+D:\workspace\csharp-task-parallel-library\csharp-task-parallel-library\bin\Debug\net9.0\csharp-task-parallel-library.dll
+D:\workspace\csharp-task-parallel-library\csharp-task-parallel-library\bin\Debug\net9.0\csharp-task-parallel-library.pdb
+D:\workspace\csharp-task-parallel-library\csharp-task-parallel-library\obj\Debug\net9.0\csharp-task-parallel-library.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp-task-parallel-library\csharp-task-parallel-library\obj\Debug\net9.0\csharp-task-parallel-library.AssemblyInfoInputs.cache
+D:\workspace\csharp-task-parallel-library\csharp-task-parallel-library\obj\Debug\net9.0\csharp-task-parallel-library.AssemblyInfo.cs
+D:\workspace\csharp-task-parallel-library\csharp-task-parallel-library\obj\Debug\net9.0\csharp-task-parallel-library.csproj.CoreCompileInputs.cache
+D:\workspace\csharp-task-parallel-library\csharp-task-parallel-library\obj\Debug\net9.0\csharp-task-parallel-library.dll
+D:\workspace\csharp-task-parallel-library\csharp-task-parallel-library\obj\Debug\net9.0\refint\csharp-task-parallel-library.dll
+D:\workspace\csharp-task-parallel-library\csharp-task-parallel-library\obj\Debug\net9.0\csharp-task-parallel-library.pdb
+D:\workspace\csharp-task-parallel-library\csharp-task-parallel-library\obj\Debug\net9.0\csharp-task-parallel-library.genruntimeconfig.cache
+D:\workspace\csharp-task-parallel-library\csharp-task-parallel-library\obj\Debug\net9.0\ref\csharp-task-parallel-library.dll

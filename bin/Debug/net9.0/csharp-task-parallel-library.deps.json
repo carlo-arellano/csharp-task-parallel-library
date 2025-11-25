@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "csharp-task-parallel-library/1.0.0": {
+        "runtime": {
+          "csharp-task-parallel-library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "csharp-task-parallel-library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
