@@ -12,3 +12,4 @@ D:\workspace\csharp-task-parallel-library\csharp-task-parallel-library\obj\Debug
 D:\workspace\csharp-task-parallel-library\csharp-task-parallel-library\obj\Debug\net9.0\csharp-task-parallel-library.pdb
 D:\workspace\csharp-task-parallel-library\csharp-task-parallel-library\obj\Debug\net9.0\csharp-task-parallel-library.genruntimeconfig.cache
 D:\workspace\csharp-task-parallel-library\csharp-task-parallel-library\obj\Debug\net9.0\ref\csharp-task-parallel-library.dll
+D:\workspace\csharp-task-parallel-library\csharp-task-parallel-library\obj\Debug\net9.0\csharp-task-parallel-library.sourcelink.json

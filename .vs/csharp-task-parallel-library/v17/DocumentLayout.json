@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{4F9882FC-B327-41BB-9740-DF505F4CF9A1}|csharp-task-parallel-library.csproj|d:\\workspace\\csharp-task-parallel-library\\csharp-task-parallel-library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F9882FC-B327-41BB-9740-DF505F4CF9A1}|csharp-task-parallel-library.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9882FC-B327-41BB-9740-DF505F4CF9A1}|csharp-task-parallel-library.csproj|d:\\workspace\\csharp-task-parallel-library\\csharp-task-parallel-library\\taskparallellibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9882FC-B327-41BB-9740-DF505F4CF9A1}|csharp-task-parallel-library.csproj|solutionrelative:taskparallellibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 152,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp-task-parallel-library\\csharp-task-parallel-library\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\workspace\\csharp-task-parallel-library\\csharp-task-parallel-library\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAI0AAAAAAAAAAAArwKoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T10:30:37.032Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -42,15 +60,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp-task-parallel-library\\csharp-task-parallel-library\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\workspace\\csharp-task-parallel-library\\csharp-task-parallel-library\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "TaskParallelLibrary.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp-task-parallel-library\\csharp-task-parallel-library\\TaskParallelLibrary.cs",
+              "RelativeDocumentMoniker": "TaskParallelLibrary.cs",
+              "ToolTip": "D:\\workspace\\csharp-task-parallel-library\\csharp-task-parallel-library\\TaskParallelLibrary.cs",
+              "RelativeToolTip": "TaskParallelLibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T10:30:37.032Z",
+              "WhenOpened": "2025-11-25T11:21:17.233Z",
               "EditorCaption": ""
             }
           ]

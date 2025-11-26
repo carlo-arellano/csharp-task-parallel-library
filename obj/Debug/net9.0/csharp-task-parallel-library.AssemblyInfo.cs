@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("csharp-task-parallel-library")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffbea28896e43a24b8a3c465428121f337d331d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("csharp-task-parallel-library")]
 [assembly: System.Reflection.AssemblyTitleAttribute("csharp-task-parallel-library")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
